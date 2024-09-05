@@ -1,3 +1,3 @@
 def main():
-  print("hello EECS348")
+  print("good riddance")
 main()
